@@ -14,3 +14,5 @@ LinkingTo:
     Rcpp
 Imports: 
     Rcpp
+URL: https://github.com/alucascu/semesterproject
+BugReports: https://github.com/alucascu/semesterproject/issues
